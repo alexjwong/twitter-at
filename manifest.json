@@ -1,0 +1,10 @@
+{
+  "name": "Twitter @",
+  "description" : "To use, type '@' plus a Twitter handle into the Omnibox.",
+  "version": "1.0",
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "omnibox": { "keyword" : "@" },
+  "manifest_version": 2
+}
